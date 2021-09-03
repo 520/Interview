@@ -1,1 +1,1 @@
-io: 字节流 fileinputstream fileoutputstream    字符流writer reader 
+io: 字节流 fileinputstream fileoutputstream imageinputstream   字符流writer reader 
