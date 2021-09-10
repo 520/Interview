@@ -1,1 +1,7 @@
 io: 字节流 fileinputstream fileoutputstream imageinputstream   字符流writer reader 
+创建对象5种方式 
+1.new
+2.constructor newInstance Emyployee.class.getConstructor().newInstance();
+3.class newInstance Employee.class.newInstance()
+4.clone employee.clone
+5.反序列化 objectinputstream readobject
