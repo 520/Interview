@@ -5,3 +5,15 @@ io: 字节流 fileinputstream fileoutputstream imageinputstream   字符流write
 3.class newInstance Employee.class.newInstance()
 4.clone employee.clone
 5.反序列化 objectinputstream readobject
+
+
+hadoop
+常用端口号 namenode内部端口 8020 9000 9820 用户查询端口9870
+yarn运行情况8088
+历史服务器19888
+
+常用配置文件
+core-site hdfs yarn mapred workers
+
+文件块128M
+读写流程
