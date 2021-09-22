@@ -17,3 +17,5 @@ core-site hdfs yarn mapred workers
 
 文件块128M
 读写流程
+
+作业调度器 fifo 容量（默认） 公平
